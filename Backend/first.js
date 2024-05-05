@@ -1,4 +1,3 @@
-console.log("I am listening");
 console.log("Hello from Kanchanpur");
 console.log( 2==2);
 console.log( 2 == '2');
