@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is our practise session during our Minor Project Defense",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradipbhatt/Minor-Project-Practice.git"
+  },
+  "keywords": [
+    "Minor_Project"
+  ],
+  "author": "Pradip Bhatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pradipbhatt/Minor-Project-Practice/issues"
+  },
+  "homepage": "https://github.com/pradipbhatt/Minor-Project-Practice#readme"
+}
